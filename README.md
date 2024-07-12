@@ -8,7 +8,6 @@ Repository link: https://github.com/saromaddy/chisquared
 
 Chi-Squared Distribution
     This is a distribution mainly used on hypothesis testing which indicates that given two variables are related with each other or not
-
     in any normal distribution if you are sampling a data and squaring it 
 
     ![chisquared_formula](image.png)​
